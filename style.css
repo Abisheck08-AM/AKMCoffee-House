@@ -76,7 +76,7 @@ section{
     text-align: left;
     align-items: center;
     gap: 8rem;
-    background: url(img/cof 1.jpg)center no-repeat;
+    background-image: url(IMG/cof 1.jpg) center no-repeat;
     background-size: cover;
 }
 .home-content h3{
