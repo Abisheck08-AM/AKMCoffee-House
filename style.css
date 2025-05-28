@@ -76,7 +76,7 @@ section{
     text-align: left;
     align-items: center;
     gap: 8rem;
-    background-image: url(IMG/cof 1.jpg) center no-repeat;
+    background-image: url(IMG/cof\ 1.jpg) center no-repeat;
     background-size: cover;
 }
 .home-content h3{
@@ -117,7 +117,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(Img/cof\ 2.jpg);
+    background: url(IMG/cof\ 2.jpg);
     max-height: 100vh;
 }
 .heading{
